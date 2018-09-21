@@ -4,8 +4,8 @@
 ![result](https://github.com/brandonchow1997/ziroom-spider/blob/master/result.png)
 # 环境依赖
 Python3.6,MongoDB,tesseract
-库依赖：PIL,pytesseract（提前安装好tesseract）,tqdm（进度条）,retrying（重试）
-
+# 库依赖
+PIL,pytesseract（提前安装好tesseract）,tqdm（进度条）,retrying（重试）
 # 爬虫原理
 1.根据页面顶部的区域，分别获取每个区的链接，放入list中。
 ![步骤1](https://github.com/brandonchow1997/ziroom-spider/blob/master/district.png)
