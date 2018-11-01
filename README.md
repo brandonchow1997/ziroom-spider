@@ -5,8 +5,8 @@
 
 相关项目：
 
-- ![基于自如租房上海房源的聚类分析与数据可视化](https://github.com/brandonchow1997/ziroom_ml_analysis)
-- ![基于自如网上海房源的数据分析与机器学习拟合预测](https://github.com/brandonchow1997/housing-forecast)
+- [基于自如租房上海房源的聚类分析与数据可视化](https://github.com/brandonchow1997/ziroom_ml_analysis)
+- [基于自如网上海房源的数据分析与机器学习拟合预测](https://github.com/brandonchow1997/housing-forecast)
 
 ---
 
